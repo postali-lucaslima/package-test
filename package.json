@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 1"
   },
+  "publishConfig": {
+    "@postali-lucaslima:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git@postali:postali-lucaslima/package-test.git"
